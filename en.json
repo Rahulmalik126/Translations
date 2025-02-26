@@ -13,5 +13,10 @@
     "HomePageHead3":"New releases",
     "SearchPageHead1":"Search",
     "SearchPageInputPlaceHolder":"What do you want to listen to",
-    "SearchPageHead2":"Top Tracks"
+    "SearchPageHead2":"Top Tracks",
+    "LibraryPageHead1":"Your Library",
+    "LibraryPageCategories":["Tracks", "Playlists", "Artists","All"],
+    "LibraryPageBtn1Head":"Liked Songs",
+    "LibraryPageBtn1SubHead1":"Playlists",
+    "LibraryPageBtn1SubHead2":"Songs"
 }

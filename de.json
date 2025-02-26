@@ -13,5 +13,10 @@
     "HomePageHead3":"Neuerscheinungen",
     "SearchPageHead1":"Suchen",
     "SearchPageInputPlaceHolder":"Was möchtest du hören",
-    "SearchPageHead2":"Top-Titel"
+    "SearchPageHead2":"Top-Titel",
+    "LibraryPageHead1":"Ihre Bibliothek",
+    "LibraryPageCategories":["Spuren", "Wiedergabelisten", "Künstler","Alle"],
+    "LibraryPageBtn1Head":"Beliebte Lieder",
+    "LibraryPageBtn1SubHead1":"Wiedergabelisten",
+    "LibraryPageBtn1SubHead2":"Lieder"
 }
