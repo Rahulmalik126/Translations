@@ -33,5 +33,9 @@
     "SearchBarPageResult":{
         "SearchBarPageResultText":"Let's see what are you Searching for?",
         "SearchBarPageResultCategories":["Tracks","Artists","Albums", "Playlists"]
-    }
+    },
+    "UserPageText1":"follower",
+    "UserPageText2":"following",
+    "UserPageBtn1Head":"Edit",
+    "UserPageText3":"No recent activity"
 }

@@ -33,6 +33,10 @@
     "SearchBarPageResult":{
         "SearchBarPageResultText":"Mal sehen, wonach Sie suchen?",
         "SearchBarPageResultCategories":["Spuren","Künstler","Album", "Wiedergabelisten"]
-    }
+    },
+    "UserPageText1":"Anhänger",
+    "UserPageText2":"folgende",
+    "UserPageBtn1Head":"Bearbeiten",
+    "UserPageText3":"Keine aktuelle Aktivität"
 
 }
