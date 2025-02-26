@@ -18,5 +18,7 @@
     "LibraryPageCategories":["Tracks", "Playlists", "Artists","All"],
     "LibraryPageBtn1":{"LibraryPageBtn1Head":"Liked Songs",
     "LibraryPageBtn1SubHead1":"Playlists",
-    "LibraryPageBtn1SubHead2":"Songs"}
+    "LibraryPageBtn1SubHead2":"Songs"},
+    "AlbumPageText1":"Album",
+    "AlbumPageText2":"Songs"
 }

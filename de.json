@@ -18,5 +18,7 @@
     "LibraryPageCategories":["Spuren", "Wiedergabelisten", "Künstler","Alle"],
     "LibraryPageBtn1":{"LibraryPageBtn1Head":"Beliebte Lieder",
     "LibraryPageBtn1SubHead1":"Wiedergabelisten",
-    "LibraryPageBtn1SubHead2":"Lieder"}
+    "LibraryPageBtn1SubHead2":"Lieder"},
+    "AlbumPageText1":"Album",
+    "AlbumPageText2":"Lieder"
 }
