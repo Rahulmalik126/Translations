@@ -24,5 +24,15 @@
     "AlbumPageText2":"Lieder",
     "LikedPageHead":"Beliebte Lieder",
     "LikedPageText1":"Lieder",
-    "ArtistPageText1":"monatliche Hörer"
+    "ArtistPageText1":"monatliche Hörer",
+    "PlaylistPageText1":"spart",
+    "PlaylistPageText2":"Lieder",
+    "SearchBarPagePlaceHolder":"Was möchtest du hören?",
+    "SearchBarPageHead":"Spielen Sie, was Sie lieben",
+    "SearchBarPageText":"Suchen Sie nach Künstlern, Titeln, Alben und mehr.",
+    "SearchBarPageResult":{
+        "SearchBarPageResultText":"Mal sehen, wonach Sie suchen?",
+        "SearchBarPageResultCategories":["Spuren","Künstler","Album", "Wiedergabelisten"]
+    }
+
 }

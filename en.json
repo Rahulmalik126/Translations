@@ -24,5 +24,14 @@
     "AlbumPageText2":"Songs",
     "LikedPageHead":"Liked Songs",
     "LikedPageText1":"songs",
-    "ArtistPageText1":"monthly listeners"
+    "ArtistPageText1":"monthly listeners",
+    "PlaylistPageText1":"saves",
+    "PlaylistPageText2":"Songs",
+    "SearchBarPagePlaceHolder":"What do you want to listen to?",
+    "SearchBarPageHead":"Play what you love",
+    "SearchBarPageText":"Search for artists, tracks, albums, and more.",
+    "SearchBarPageResult":{
+        "SearchBarPageResultText":"Let's see what are you Searching for?",
+        "SearchBarPageResultCategories":["Tracks","Artists","Albums", "Playlists"]
+    }
 }
