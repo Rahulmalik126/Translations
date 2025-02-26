@@ -23,5 +23,6 @@
     "AlbumPageText1":"Album",
     "AlbumPageText2":"Songs",
     "LikedPageHead":"Liked Songs",
-    "LikedPageText1":"songs"
+    "LikedPageText1":"songs",
+    "ArtistPageText1":"monthly listeners"
 }
