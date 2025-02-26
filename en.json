@@ -16,7 +16,7 @@
     "SearchPageHead2":"Top Tracks",
     "LibraryPageHead1":"Your Library",
     "LibraryPageCategories":["Tracks", "Playlists", "Artists","All"],
-    "LibraryPageBtn1Head":"Liked Songs",
+    "LibraryPageBtn1":{"LibraryPageBtn1Head":"Liked Songs",
     "LibraryPageBtn1SubHead1":"Playlists",
-    "LibraryPageBtn1SubHead2":"Songs"
+    "LibraryPageBtn1SubHead2":"Songs"}
 }

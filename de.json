@@ -16,7 +16,7 @@
     "SearchPageHead2":"Top-Titel",
     "LibraryPageHead1":"Ihre Bibliothek",
     "LibraryPageCategories":["Spuren", "Wiedergabelisten", "Künstler","Alle"],
-    "LibraryPageBtn1Head":"Beliebte Lieder",
+    "LibraryPageBtn1":{"LibraryPageBtn1Head":"Beliebte Lieder",
     "LibraryPageBtn1SubHead1":"Wiedergabelisten",
-    "LibraryPageBtn1SubHead2":"Lieder"
+    "LibraryPageBtn1SubHead2":"Lieder"}
 }
