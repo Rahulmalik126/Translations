@@ -10,5 +10,8 @@
     "HomePageCategories":["Alle","Musik","Künstler"],
     "HomePageHead1SubHead1":"alle anzeigen",
     "HomePageHead2":"Top-Künstler",
-    "HomePageHead3":"Neuerscheinungen"
+    "HomePageHead3":"Neuerscheinungen",
+    "SearchPageHead1":"Suchen",
+    "SearchPageInputPlaceHolder":"Was möchtest du hören",
+    "SearchPageHead2":"Top-Titel"
 }
