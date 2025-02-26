@@ -20,5 +20,7 @@
     "LibraryPageBtn1SubHead1":"Playlists",
     "LibraryPageBtn1SubHead2":"Songs"},
     "AlbumPageText1":"Album",
-    "AlbumPageText2":"Songs"
+    "AlbumPageText2":"Songs",
+    "LikedPageHead":"Liked Songs",
+    "LikedPageText1":"songs"
 }

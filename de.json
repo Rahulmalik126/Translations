@@ -20,5 +20,8 @@
     "LibraryPageBtn1SubHead1":"Wiedergabelisten",
     "LibraryPageBtn1SubHead2":"Lieder"},
     "AlbumPageText1":"Album",
-    "AlbumPageText2":"Lieder"
+    "AlbumPageText2":"Lieder",
+    "LikedPageHead":"Beliebte Lieder",
+    "LikedPageText1":"Lieder"
+
 }
