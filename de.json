@@ -10,6 +10,7 @@
     "HomePageCategories":["Alle","Musik","Künstler"],
     "HomePageHead1SubHead1":"alle anzeigen",
     "HomePageHead2":"Top-Künstler",
+    "HomeSectionCheck":["artist","releases"],
     "HomePageHead3":"Neuerscheinungen",
     "SearchPageHead1":"Suchen",
     "SearchPageInputPlaceHolder":"Was möchtest du hören",
