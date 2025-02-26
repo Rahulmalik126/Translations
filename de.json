@@ -37,6 +37,12 @@
     "UserPageText1":"Anhänger",
     "UserPageText2":"folgende",
     "UserPageBtn1Head":"Bearbeiten",
-    "UserPageText3":"Keine aktuelle Aktivität"
+    "UserPageText3":"Keine aktuelle Aktivität",
+    "DrawerSubText1":"Zum Profil",
+    "DrawerOption1":"Konto hinzufügen",
+    "DrawerOption2":"Was ist neu",
+    "DrawerOption3":"Jüngste",
+    "DrawerOption4":"Einstellungen und Datenschutz",
+    "DrawerOption5":"Ausloggen"
 
 }

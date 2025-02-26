@@ -37,5 +37,11 @@
     "UserPageText1":"follower",
     "UserPageText2":"following",
     "UserPageBtn1Head":"Edit",
-    "UserPageText3":"No recent activity"
+    "UserPageText3":"No recent activity",
+    "DrawerSubText1":"View Profile",
+    "DrawerOption1":"Add Account",
+    "DrawerOption2":"What's New",
+    "DrawerOption3":"Recents",
+    "DrawerOption4":"Settings and Privacy",
+    "DrawerOption5":"Log Out"
 }
