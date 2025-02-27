@@ -57,6 +57,7 @@
     "DrawerOption2":"Was ist neu",
     "DrawerOption3":"Jüngste",
     "DrawerOption4":"Einstellungen und Datenschutz",
-    "DrawerOption5":"Ausloggen"
-
+    "DrawerOption5":"Ausloggen",
+    "Settings": "Einstellungen",
+    "Setting_heading": "Wählen Sie Ihre Sprache"
 }

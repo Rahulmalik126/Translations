@@ -59,5 +59,7 @@
     "DrawerOption2": "Quoi de neuf",
     "DrawerOption3": "Récents",
     "DrawerOption4": "Paramètres et confidentialité",
-    "DrawerOption5": "Se déconnecter"
+    "DrawerOption5": "Se déconnecter",
+    "Settings": "Paramètres",
+  "Setting_heading": "Choisissez votre langue"
 }
